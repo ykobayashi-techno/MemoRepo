@@ -22,7 +22,7 @@
 
 ![](images/HumanResouceMachine_error.png)
 
-[![ヒューマン・リソース・マシーン](http://img.youtube.com/vi/nMT514CSkaU/0.jpg)](https://youtu.be/nMT514CSkaU?t=365)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMT514CSkaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Autonauts
 
