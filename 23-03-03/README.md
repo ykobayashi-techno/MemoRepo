@@ -22,7 +22,8 @@
 
 ![](images/HumanResouceMachine_error.png)
 
-<div><video controls src="https://github.com/ykobayashi-techno/MemoRepo/blob/220303_kaigi/23-03-03/videos/HumanResouceMachine_stagemovie.mp4?raw=true" muted="false"></video></div>
+<div><video controls src="https://user-images.githubusercontent.com/11056457/222556994-98ffa2b6-95e9-46b5-b528-08f9d9a53b36.mp4
+" muted="false"></video></div>
 
 ## Autonauts
 
