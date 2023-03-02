@@ -52,6 +52,7 @@ https://store-jp.nintendo.com/list/software/70010000054071.html
 
 - 一例として伐採の様子
 
+<div><video controls src="https://user-images.githubusercontent.com/11056457/222589627-8a2ca342-44fb-4690-a193-56d944ebc803.mp4" muted="false"></video></div>
 
 - こんな感じのプログラムになっている
 
