@@ -22,7 +22,7 @@
 
 ![](images/HumanResouceMachine_error.png)
 
-<video controls src="./videos/HumanResouceMachine_movie.mp4" muted="false"></video>
+<div><video controls src="./videos/HumanResouceMachine_movie.mp4" muted="false"></video></div>
 
 ## Autonauts
 
