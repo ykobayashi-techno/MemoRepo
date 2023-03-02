@@ -32,6 +32,7 @@ https://store-jp.nintendo.com/list/software/70010000000753.html
 - さらに難易度の上がった7 Billion Humansもある
 
 ![](images/7_billion.png)
+
 https://store-jp.nintendo.com/list/software/70010000014082.html
 
 ## Autonauts
