@@ -80,9 +80,7 @@ https://store-jp.nintendo.com/list/software/70010000009747.html
 - オートで戦ってくれる
 - 正しく組んでないと棒立ちになってしまうことも…
 
-## 番外編(簡単な紹介)
-
-### Minecraft
+## Minecraft
 
 ![Minecraft](images/Minecraft_logo.png)
 https://store-jp.nintendo.com/list/software/7001000000965.html
@@ -99,7 +97,7 @@ https://store-jp.nintendo.com/list/software/7001000000965.html
 
 https://www.watch.impress.co.jp/kodomo_it/news/1287773.html
 
-### ナビつき！ つくってわかる はじめてゲームプログラミング
+## ナビつき！ つくってわかる はじめてゲームプログラミング
 
 ![](images/Nintendo_navi_logo.png)
 https://store-jp.nintendo.com/list/software/70010000041266.html
