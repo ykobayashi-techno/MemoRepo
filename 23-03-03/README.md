@@ -40,6 +40,7 @@ https://store-jp.nintendo.com/list/software/70010000014082.html
 ![Autonauts_logo](images/Autonauts_logo.png)
 
 オートノーツ
+
 https://store-jp.nintendo.com/list/software/70010000054071.html
 
 ### 特徴
@@ -64,6 +65,7 @@ https://store-jp.nintendo.com/list/software/70010000054071.html
 ![](images/FF12_logo.png)
 
 FINAL FANTASY XII
+
 https://store-jp.nintendo.com/list/software/70010000009747.html
 
 ### 特徴
