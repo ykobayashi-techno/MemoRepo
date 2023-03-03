@@ -86,7 +86,7 @@ https://store-jp.nintendo.com/list/software/70010000009747.html
 
 https://store-jp.nintendo.com/list/software/7001000000965.html
 
-- めちゃくちゃ有名タイトルなので外した
+- めちゃくちゃ有名タイトルなので簡単に。
 - レッドストーンという回路を組んで自動ドアや簡単な仕掛けを作ることができる
 - ゲーム内でコマンドブロックというスクリプトを書ける機能がある
 - Mod製作も人気
