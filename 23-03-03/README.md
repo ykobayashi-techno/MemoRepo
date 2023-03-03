@@ -94,6 +94,11 @@ https://store-jp.nintendo.com/list/software/7001000000965.html
 
 ![](images/Minecraft_command_block.png)
 
+
+学校で取り入れられるケースも
+
+https://www.watch.impress.co.jp/kodomo_it/news/1287773.html
+
 ### ナビつき！ つくってわかる はじめてゲームプログラミング
 
 ![](images/Nintendo_navi_logo.png)
