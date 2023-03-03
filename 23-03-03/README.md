@@ -83,6 +83,7 @@ https://store-jp.nintendo.com/list/software/70010000009747.html
 ## Minecraft
 
 ![Minecraft](images/Minecraft_logo.png)
+
 https://store-jp.nintendo.com/list/software/7001000000965.html
 
 - めちゃくちゃ有名タイトルなので外した
@@ -100,6 +101,7 @@ https://www.watch.impress.co.jp/kodomo_it/news/1287773.html
 ## ナビつき！ つくってわかる はじめてゲームプログラミング
 
 ![](images/Nintendo_navi_logo.png)
+
 https://store-jp.nintendo.com/list/software/70010000041266.html
 
 - 任天堂のゲームを作れるソフト
