@@ -26,7 +26,7 @@ generation_args = {
 }
 
 while True:
-    input_text = input("キミ: ")
+    input_text = input("あなた: ")
     if input_text == "exit":
         break
     
